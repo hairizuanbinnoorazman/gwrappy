@@ -23,6 +23,7 @@ Features
     * Drive
     * Gmail
     * Compute Engine
+    * Google Analytics
 
 .. code-block:: python
 
