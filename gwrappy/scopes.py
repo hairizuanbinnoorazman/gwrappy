@@ -22,5 +22,9 @@ SCOPES = {
     'dataproc': {
         'scope': 'https://www.googleapis.com/auth/cloud-platform',
         'version': 'v1'
+    },
+    'googleanalytics': {
+        'scope': 'https://www.googleapis.com/auth/analytics',
+        'version': 'v4'
     }
 }
